@@ -1,0 +1,17 @@
+{
+  "port": 9105,
+  "host": "127.0.0.1",
+  "allowedOrigins": [
+    "http://localhost:5173",
+    "http://127.0.0.1:5173",
+    "https://pedidofresco.com.ar",
+    "https://www.pedidofresco.com.ar"
+  ],
+  "defaultPrinter": "",
+  "dpi": 203,
+  "defaultDotsPerLine": {
+    "58": 384,
+    "67": 512,
+    "80": 576
+  }
+}
